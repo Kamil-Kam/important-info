@@ -4,30 +4,7 @@ https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
 https://stackoverflow.com/questions/20887555/dead-simple-example-of-using-multiprocessing-queue-pool-and-locking
 https://github.com/AzimuthLand/pyolx/tree/master/olx
 
-
-            Photography is the art, application, and practice of creating durable images by recording light,
-            either electronically by means of an image sensor, or chemically by means of a light-sensitive material
-            such as photographic film. It is employed in many fields of science, manufacturing (e.g., photolithography),
-            and business, as well as its more direct uses for art, film and video production, recreational purposes, hobby, and mass communication.[1]
-            
-            Na tej stronie internetowej prezentuję moje zdjęcia, wykonane podczas podróży. Głównie są to zdjęcia krajobrazowe, panoramy, zdjęcia dzikiej przyrody. 
-            Na wielu z noch znajdują barwne zachody oraz wschody słońca, najbardziej malowniczy czas do wykonywania fotografii. Każda z zakładek po lewej stronie przenosi do galerii zdjęć o danej tematyce.
-            Każdy odwiedzający może dodać swoje zdjęcia, wszystkie zostaną przypisane do katalogu "Visitors photos" oraz automatycznie przeskalowane do max rozmiaru 1920px większego wymiaru. 
-            Wszystkie zdjęcia zostały wykonane za pomocą aparatu Nikon D3300 oraz obiektywu Nikon Nikkor AF-S DX 18-140 mm f/3.5-5.6G ED VR. Poniżej krótki opis oraz zdjęcie sprzętu.
-            
-            
-            On this website, I present my photos taken during my travels. They are mainly landscape photos, panoramas, and photos of wildlife. Many of them feature colorful sunsets and sunrises, which are the most picturesque times for taking photos. Each of the tabs on the left side takes you to a gallery of photos on a specific theme.
-
-Any visitor can add their own photos, which will be assigned to the "Visitors photos" folder and automatically scaled down to a maximum size of 1920px on the larger dimension. All photos were taken with a Nikon D3300 camera and a Nikon Nikkor AF-S DX 18-140 mm f/3.5-5.6G ED VR lens. Below is a short description and a photo of the equipment.
-            
-            
-            On this webpage, I am showcasing my photographic repertoire, captured during my travels. Predominantly, these are picturesque landscapes, panoramas, and wildlife shots. Many of them feature colorful sunsets and sunrises, which render the most stunning visual delights for photography enthusiasts. Each tab on the left leads to a gallery of images on a specific theme.
-            
-Furthermore, visitors have the option to upload their own photographs, which will be allocated to the "Visitors photos" directory and automatically resized to a maximum dimension of 1920px on the larger side. 
-
-All the photographs have been taken using the Nikon D3300 camera, paired with the Nikon Nikkor AF-S DX 18-140 mm f/3.5-5.6G ED VR lens. Below, you can find a concise description and a photograph of the equipment.
-            
-            
+http://kamilkam.pythonanywhere.com/
             
 
 
