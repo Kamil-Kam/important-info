@@ -23,7 +23,9 @@ Any visitor can add their own photos, which will be assigned to the "Visitors ph
             
             On this webpage, I am showcasing my photographic repertoire, captured during my travels. Predominantly, these are picturesque landscapes, panoramas, and wildlife shots. Many of them feature colorful sunsets and sunrises, which render the most stunning visual delights for photography enthusiasts. Each tab on the left leads to a gallery of images on a specific theme.
             
-Furthermore, visitors have the option to upload their own photographs, which will be allocated to the "Visitors photos" directory and automatically resized to a maximum dimension of 1920px on the larger side. All the photographs have been meticulously shot using the Nikon D3300 camera, paired with the Nikon Nikkor AF-S DX 18-140 mm f/3.5-5.6G ED VR lens. Below, you can find a concise description and a photograph of the equipment.
+Furthermore, visitors have the option to upload their own photographs, which will be allocated to the "Visitors photos" directory and automatically resized to a maximum dimension of 1920px on the larger side. 
+
+All the photographs have been taken using the Nikon D3300 camera, paired with the Nikon Nikkor AF-S DX 18-140 mm f/3.5-5.6G ED VR lens. Below, you can find a concise description and a photograph of the equipment.
             
             
             
