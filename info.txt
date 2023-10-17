@@ -1,3 +1,17 @@
+ctrl + D - mark the next occurance
+ctrl + shift + L - mark all accurances
+kliknięcie na nr linijki
+
+Ctrl + Alt + Up/Down - add cursor / Esc - exit multiple cursors
+
+Ctrl + Shift + Home - mark all up
+Ctrl + Shift + End - mark all down
+
+Ctrl + 0 - sidebar / back Ctral + 1
+Alt + Shift + I - put cursor at the ends of all marked lines
+
+
+
 https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
 
